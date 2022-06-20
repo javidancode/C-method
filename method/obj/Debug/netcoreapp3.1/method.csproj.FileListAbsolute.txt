@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\C# method\method\method\bin\Debug\netcoreapp3.1\method.exe
+C:\Users\ASUS\source\repos\C# method\method\method\bin\Debug\netcoreapp3.1\method.deps.json
+C:\Users\ASUS\source\repos\C# method\method\method\bin\Debug\netcoreapp3.1\method.runtimeconfig.json
+C:\Users\ASUS\source\repos\C# method\method\method\bin\Debug\netcoreapp3.1\method.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\C# method\method\method\bin\Debug\netcoreapp3.1\method.dll
+C:\Users\ASUS\source\repos\C# method\method\method\bin\Debug\netcoreapp3.1\method.pdb
+C:\Users\ASUS\source\repos\C# method\method\method\obj\Debug\netcoreapp3.1\method.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\C# method\method\method\obj\Debug\netcoreapp3.1\method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\C# method\method\method\obj\Debug\netcoreapp3.1\method.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\C# method\method\method\obj\Debug\netcoreapp3.1\method.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\C# method\method\method\obj\Debug\netcoreapp3.1\method.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\C# method\method\method\obj\Debug\netcoreapp3.1\method.dll
+C:\Users\ASUS\source\repos\C# method\method\method\obj\Debug\netcoreapp3.1\method.pdb
+C:\Users\ASUS\source\repos\C# method\method\method\obj\Debug\netcoreapp3.1\method.genruntimeconfig.cache
